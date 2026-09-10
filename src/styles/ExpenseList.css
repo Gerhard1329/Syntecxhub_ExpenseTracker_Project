@@ -1,0 +1,9 @@
+﻿.expense-list { list-style: none; padding: 0; margin: 0; }
+.expense-item { display: flex; justify-content: space-between; align-items: center; padding: 0.75rem 1rem; background: #f9fafb; border-radius: 10px; margin-bottom: 0.5rem; transition: transform 0.15s, box-shadow 0.15s; }
+.expense-item:hover { transform: translateY(-1px); box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05); }
+.expense-info { display: flex; align-items: center; gap: 0.5rem; }
+.badge { font-size: 0.7rem; background: #eef2ff; color: #3730a3; padding: 0.15rem 0.55rem; border-radius: 999px; font-weight: 500; }
+.expense-actions { display: flex; align-items: center; gap: 0.75rem; }
+.amount { font-weight: 600; color: #1f2937; }
+.expense-actions button { background: #ef4444; color: white; border: none; border-radius: 6px; padding: 0.3rem 0.6rem; font-size: 0.8rem; cursor: pointer; transition: background 0.2s; }
+.expense-actions button:hover { background: #dc2626; }
