@@ -7,7 +7,7 @@ A responsive **Expense Tracker** built with **React** as part of the
 
 ## 🔗 Live Demo
 
-> 👉 **[Add your Vercel / Netlify link here after deploying]**
+> 👉 **[https://syntecxhub-expense-tracker-project.vercel.app](https://syntecxhub-expense-tracker-project.vercel.app)**
 
 ---
 
